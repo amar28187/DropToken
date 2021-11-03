@@ -1,0 +1,53 @@
+
+        
+//
+//        for row in 0..<dotsPerColumn {
+//            guard let arr0 = columnVisits[0],
+//                  let arr1 = columnVisits[1],
+//                  let arr2 = columnVisits[2],
+//                  let arr3 = columnVisits[3] else{
+//                return false
+//            }
+//
+//            if arr0[row] == 1, arr1[row] == 1, arr2[row] == 1, arr3[row] == 1 {
+//                return true
+//            } else if arr0[row] == 2, arr1[row] == 2, arr2[row] == 2, arr3[row] == 2 {
+//                return true
+//            }
+//
+//        }
+        
+//        if let arr = columnVisits[column] {
+//            if arr.filter({$0 == 2}).count == dotsPerColumn || arr.filter({$0 == 1}).count == dotsPerColumn {
+//                self.showAlert(withMessage: "Player \(self.serviceFirst ? "2" : "1") is the winner")
+//                print("Final scores:\n \(self.columnVisits)")
+//                return true
+//            }
+//        }
+        
+        
+        
+        
+//        guard let arr0 = columnVisits[0],
+//              let arr1 = columnVisits[1],
+//              let arr2 = columnVisits[2],
+//              let arr3 = columnVisits[3] else{
+//            return false
+//        }
+//
+//        var winnerFound: Bool = false
+//
+//        if arr0[0] == 1, arr1[1] == 1, arr2[2] == 1, arr3[3] == 1 {
+//            winnerFound = true
+//        } else if arr0[0] == 2, arr1[1] == 2, arr2[2] == 2, arr3[3] == 2 {
+//            winnerFound = true
+//        } else if arr0[3] == 1, arr1[2] == 1, arr2[1] == 1, arr3[0] == 1 {
+//            winnerFound = true
+//        } else if arr0[3] == 2, arr1[2] == 2, arr2[1] == 2, arr3[0] == 2 {
+//            winnerFound = true
+//        }
+//
+//        return winnerFound
+
+
+
